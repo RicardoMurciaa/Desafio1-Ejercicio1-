@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "pelicula": "John Wick",
+        "precio": "20.00",
+        "quantity":1
+
+    },
+
+    {
+        "id":2,
+        "pelicula": "Super Mario",
+        "precio": "18.00",
+        "quantity":1
+    },
+
+    {
+        "id":3,
+        "pelicula": "Tropa de Elite",
+        "precio": "15.00",
+        "quantity":1
+    }
+]
+
